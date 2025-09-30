@@ -30,8 +30,7 @@ PRODUCT_PACKAGES += \
     libkcl \
     libkernelmanager \
     libllvm-glnext \
-    libllvm-qcom \
-    vendor.qti.qspmhal@1.0_vendor
+    libllvm-qcom
 
 PRODUCT_PACKAGES += \
     vendor_lib_libEGL_adreno_so \
